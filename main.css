@@ -8058,6 +8058,7 @@ margin-bottom:5px;
 .product-item-price {
   text-transform: uppercase;
   font-weight: normal;
+  color: black;
 }
 
 .product-price-line {
